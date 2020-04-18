@@ -1,0 +1,70 @@
+body {
+    font-size: 15px;
+    font-family: 'Bitter', serif;
+    background-color: pink;
+}
+
+
+#header-nav {
+    background-color:silver;
+    border-radius: 0;
+    border: 0;
+}
+
+#header-nav button {
+    margin-top: 25px;
+}
+
+.navbar-brand, .navbar-nav li a {
+    line-height: 80px;
+    height: 80px;
+    padding-top: 0;
+}
+
+.navbar-brand h1 {
+    color: #7d1913;
+    font-family: 'Bitter', serif;
+    font-weight: bolder;
+    font-size: 2 em;
+}
+
+
+#nav-list {
+    background-color: silver;
+}
+
+#nav-list a {
+    font-weight: bolder;
+    color: #282828;
+    font-size: 1.5 em;
+}
+
+#nav-list a:hover {
+    color: #202020;
+    background-color: #fce29e;
+}
+
+
+#main-outer {
+    width: 95%;
+}
+
+#main-outer h2 {
+    font-size: 3 em;
+    font-weight: bold;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+#main-outer h3 {
+    font-size: 2 em;
+    font-weight: bold;
+    margin-bottom: 1em;
+}
+
+#chicken-id, #beef-id, #sushi-id {
+    width: 100%;
+    padding: 20px;
+    background-color: #37f7ed;
+    margin-bottom: 60px;
+}
